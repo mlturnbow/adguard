@@ -1,2 +1,5 @@
 ||grubhub.com^
 ||doordash.com^
+||jimmyjohns.com^
+||pizzahut.com^
+||imospizza.com^
